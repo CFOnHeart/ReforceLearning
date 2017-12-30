@@ -15,11 +15,12 @@
 
 ## 目录介绍
 
-三个主要目录
+4个主要目录
 
 1. QLearning 目录 包含了QLearning算法的模板，以及运用QLearning算法实现的三个gym程序。
 2. DQN 目录 包含了DQN算法的模板，以及运用DQN算法实现的三个gym程序。
 3. Improved DQN 目录 包含了Improved DQN算法的模板，以及运用Improved DQN算法实现的三个gym程序。
+4. monitor目录保存的是三种算法训练好的模型得到的视频。
 
 每个目录下的子目录：
 
